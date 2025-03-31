@@ -45,9 +45,7 @@ Zwinięcia karty na stałe dokonuje się klikając i przytrzymując przez dwie s
 
 Analogicznie należy postąpić przy chęci rozwinięcia karty na stałe - kliknąć i przytrzymać jej nazwę.
 
-Z zauważonych problemów do tej pory należy wymienić sytuację gdy karta "Podsumowanie" jest zwinięta (obojętnie czy w pełni zwinięta, czy też zwinięta i tymczasowo rozwinięta) i dokonujemy próby wybrania / zmiany cennika dostawy. Jeśli ta czynność musi być wykonana, kartę "Podsumowanie" należy wcześniej wykluczyć z kart zwijanych.
-
-Rozszerzenie nie było testowane poza serwisem testowym Allegro Sandbox - po przetestowaniu proszę o informacje o jego działaniu i ewentualnych błędach. 
+Z zauważonych problemów do tej pory należy wymienić sytuację gdy karta "Podsumowanie" jest zwinięta (obojętnie czy w pełni zwinięta, czy też zwinięta i tymczasowo rozwinięta) i dokonujemy próby wybrania / zmiany cennika dostawy. Jeśli ta czynność musi być wykonana, kartę "Podsumowanie" należy wcześniej wykluczyć z kart zwijanych. 
 
 Rozszerzenie możesz sprawdzić w serwisie testowym [Allegro Sandbox](https://developer.allegro.pl/tutorials/informacje-podstawowe-b21569boAI1#srodowisko-testowe).  
 
